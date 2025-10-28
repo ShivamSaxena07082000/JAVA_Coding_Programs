@@ -17,5 +17,7 @@ public class FindCommonElementfromTwoArray {
         System.out.println("Common Elements are: "+obj_arr);
 
 
+
+
     }
 }
